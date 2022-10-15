@@ -6,3 +6,12 @@
     border-radius: 50%;
     position: relative;
 }
+#seconds {
+    width: 4px;
+    height: 180px;
+    background-color: gray;
+    margin-left: 198px;
+    margin-top: 20px;
+    animation: rotate 60s infinite linear;
+    position: absolute;
+}
