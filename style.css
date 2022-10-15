@@ -1,0 +1,8 @@
+#clock {
+    width: 400px;
+    height: 400px;
+    margin: 20px auto;
+    border: 10px solid black;
+    border-radius: 50%;
+    position: relative;
+}
